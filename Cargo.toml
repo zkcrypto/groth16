@@ -1,0 +1,15 @@
+[package]
+name = "groth16"
+version = "0.0.0"
+authors = [
+    "Sean Bowe <ewillbefull@gmail.com>",
+    "Jack Grigg <jack@z.cash>",
+]
+license = "MIT/Apache-2.0"
+
+description = "Implementation of the Groth16 zk-SNARK proving system"
+documentation = "https://docs.rs/groth16/"
+homepage = "https://github.com/ebfull/groth16"
+repository = "https://github.com/ebfull/groth16"
+
+[dependencies]
